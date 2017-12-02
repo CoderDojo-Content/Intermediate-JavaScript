@@ -8,3 +8,4 @@
 * [Português](pt/)
 * [Polskie](pl/)
 * [Sovenčina](sk/)
+* [Čeština](cs/)
