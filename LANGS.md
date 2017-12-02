@@ -7,3 +7,4 @@
 * [日本語](ja/)
 * [Português](pt/)
 * [Polskie](pl/)
+* [Sovenčina](sk/)
